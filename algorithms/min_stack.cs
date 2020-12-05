@@ -16,6 +16,7 @@ public class MinStack {
 
   public void Pop () {
     this.stack.Pop();
+    this.
     this.sortedItems.Remove(x);
     this.sortedItems = this.sortedItems.Sort();
   }
